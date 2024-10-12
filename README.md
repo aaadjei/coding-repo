@@ -9,3 +9,4 @@ Watch out !!
 ## Local Development
 
 1. Open hi.py on your computer
+2. Run it 
