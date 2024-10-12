@@ -8,5 +8,5 @@ Watch out !!
 
 ## Local Development
 
-1. Open hi.py on your computer
-2. Run it 
+1. Open vs code on your computer
+2. Run hi.py
