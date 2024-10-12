@@ -1,3 +1,3 @@
 # Coding 
 
-Building amazing coding projects!!
+Building amazing coding projects.
